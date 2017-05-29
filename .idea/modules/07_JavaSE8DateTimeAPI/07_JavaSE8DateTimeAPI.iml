@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":07_JavaSE8DateTimeAPI" external.linked.project.path="$MODULE_DIR$/../../../07_JavaSE8DateTimeAPI" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.aractron.java.training" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../07_JavaSE8DateTimeAPI">
+      <excludeFolder url="file://$MODULE_DIR$/../../../07_JavaSE8DateTimeAPI/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../07_JavaSE8DateTimeAPI/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

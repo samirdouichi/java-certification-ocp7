@@ -1,0 +1,22 @@
+rootProject.name = 'java-certification-ocp8'
+include ':01_JavaClassDesign'
+include ':02_AdvancedJavaClassDesign'
+include ':03_GenericsAndCollections'
+include ':06_ExceptionsAndAssertions'
+include ':07_JavaSE8DateTimeAPI'
+include ':08_JavaIOFundamentals'
+include ':10_JavaConcurrency'
+include ':11_BuildingDatabaseApplicationsWithJDBC'
+include ':12_Localization'
+
+project(':01_JavaClassDesign').projectDir = "$rootDir/01_JavaClassDesign" as File
+project(':02_AdvancedJavaClassDesign').projectDir = "$rootDir/02_AdvancedJavaClassDesign" as File
+project(':03_GenericsAndCollections').projectDir = "$rootDir/03_GenericsAndCollections" as File
+project(':06_ExceptionsAndAssertions').projectDir = "$rootDir/06_ExceptionsAndAssertions" as File
+project(':07_JavaSE8DateTimeAPI').projectDir = "$rootDir/07_JavaSE8DateTimeAPI" as File
+project(':08_JavaIOFundamentals').projectDir = "$rootDir/08_JavaIOFundamentals" as File
+project(':10_JavaConcurrency').projectDir = "$rootDir/10_JavaConcurrency" as File
+project(':11_BuildingDatabaseApplicationsWithJDBC').projectDir = "$rootDir/11_BuildingDatabaseApplicationsWithJDBC" as File
+project(':12_Localization').projectDir = "$rootDir/12_Localization" as File
+include '13_JavaNetworking'
+

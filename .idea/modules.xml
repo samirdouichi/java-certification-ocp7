@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_JavaClassDesign/01_JavaClassDesign.iml" filepath="$PROJECT_DIR$/.idea/modules/01_JavaClassDesign/01_JavaClassDesign.iml" group="01_JavaClassDesign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_JavaClassDesign/01_JavaClassDesign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/01_JavaClassDesign/01_JavaClassDesign_main.iml" group="01_JavaClassDesign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_JavaClassDesign/01_JavaClassDesign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/01_JavaClassDesign/01_JavaClassDesign_test.iml" group="01_JavaClassDesign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02_AdvancedJavaClassDesign/02_AdvancedJavaClassDesign.iml" filepath="$PROJECT_DIR$/.idea/modules/02_AdvancedJavaClassDesign/02_AdvancedJavaClassDesign.iml" group="02_AdvancedJavaClassDesign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02_AdvancedJavaClassDesign/02_AdvancedJavaClassDesign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/02_AdvancedJavaClassDesign/02_AdvancedJavaClassDesign_main.iml" group="02_AdvancedJavaClassDesign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02_AdvancedJavaClassDesign/02_AdvancedJavaClassDesign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/02_AdvancedJavaClassDesign/02_AdvancedJavaClassDesign_test.iml" group="02_AdvancedJavaClassDesign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03_GenericsAndCollections/03_GenericsAndCollections.iml" filepath="$PROJECT_DIR$/.idea/modules/03_GenericsAndCollections/03_GenericsAndCollections.iml" group="03_GenericsAndCollections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03_GenericsAndCollections/03_GenericsAndCollections_main.iml" filepath="$PROJECT_DIR$/.idea/modules/03_GenericsAndCollections/03_GenericsAndCollections_main.iml" group="03_GenericsAndCollections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03_GenericsAndCollections/03_GenericsAndCollections_test.iml" filepath="$PROJECT_DIR$/.idea/modules/03_GenericsAndCollections/03_GenericsAndCollections_test.iml" group="03_GenericsAndCollections" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06_ExceptionsAndAssertions/06_ExceptionsAndAssertions.iml" filepath="$PROJECT_DIR$/.idea/modules/06_ExceptionsAndAssertions/06_ExceptionsAndAssertions.iml" group="06_ExceptionsAndAssertions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06_ExceptionsAndAssertions/06_ExceptionsAndAssertions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/06_ExceptionsAndAssertions/06_ExceptionsAndAssertions_main.iml" group="06_ExceptionsAndAssertions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06_ExceptionsAndAssertions/06_ExceptionsAndAssertions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/06_ExceptionsAndAssertions/06_ExceptionsAndAssertions_test.iml" group="06_ExceptionsAndAssertions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/07_JavaSE8DateTimeAPI/07_JavaSE8DateTimeAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/07_JavaSE8DateTimeAPI/07_JavaSE8DateTimeAPI.iml" group="07_JavaSE8DateTimeAPI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/07_JavaSE8DateTimeAPI/07_JavaSE8DateTimeAPI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/07_JavaSE8DateTimeAPI/07_JavaSE8DateTimeAPI_main.iml" group="07_JavaSE8DateTimeAPI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/07_JavaSE8DateTimeAPI/07_JavaSE8DateTimeAPI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/07_JavaSE8DateTimeAPI/07_JavaSE8DateTimeAPI_test.iml" group="07_JavaSE8DateTimeAPI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08_JavaIOFundamentals/08_JavaIOFundamentals.iml" filepath="$PROJECT_DIR$/.idea/modules/08_JavaIOFundamentals/08_JavaIOFundamentals.iml" group="08_JavaIOFundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08_JavaIOFundamentals/08_JavaIOFundamentals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/08_JavaIOFundamentals/08_JavaIOFundamentals_main.iml" group="08_JavaIOFundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/08_JavaIOFundamentals/08_JavaIOFundamentals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/08_JavaIOFundamentals/08_JavaIOFundamentals_test.iml" group="08_JavaIOFundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10_JavaConcurrency/10_JavaConcurrency.iml" filepath="$PROJECT_DIR$/.idea/modules/10_JavaConcurrency/10_JavaConcurrency.iml" group="10_JavaConcurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10_JavaConcurrency/10_JavaConcurrency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/10_JavaConcurrency/10_JavaConcurrency_main.iml" group="10_JavaConcurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10_JavaConcurrency/10_JavaConcurrency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/10_JavaConcurrency/10_JavaConcurrency_test.iml" group="10_JavaConcurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/11_BuildingDatabaseApplicationsWithJDBC/11_BuildingDatabaseApplicationsWithJDBC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/11_BuildingDatabaseApplicationsWithJDBC/11_BuildingDatabaseApplicationsWithJDBC_main.iml" group="11_BuildingDatabaseApplicationsWithJDBC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/11_BuildingDatabaseApplicationsWithJDBC/11_BuildingDatabaseApplicationsWithJDBC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/11_BuildingDatabaseApplicationsWithJDBC/11_BuildingDatabaseApplicationsWithJDBC_test.iml" group="11_BuildingDatabaseApplicationsWithJDBC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12_Localization/12_Localization.iml" filepath="$PROJECT_DIR$/.idea/modules/12_Localization/12_Localization.iml" group="12_Localization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12_Localization/12_Localization_main.iml" filepath="$PROJECT_DIR$/.idea/modules/12_Localization/12_Localization_main.iml" group="12_Localization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12_Localization/12_Localization_test.iml" filepath="$PROJECT_DIR$/.idea/modules/12_Localization/12_Localization_test.iml" group="12_Localization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/13_JavaNetworking/13_JavaNetworking.iml" filepath="$PROJECT_DIR$/.idea/modules/13_JavaNetworking/13_JavaNetworking.iml" group="13_JavaNetworking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/13_JavaNetworking/13_JavaNetworking_main.iml" filepath="$PROJECT_DIR$/.idea/modules/13_JavaNetworking/13_JavaNetworking_main.iml" group="13_JavaNetworking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/13_JavaNetworking/13_JavaNetworking_test.iml" filepath="$PROJECT_DIR$/.idea/modules/13_JavaNetworking/13_JavaNetworking_test.iml" group="13_JavaNetworking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-certification-ocp8.iml" filepath="$PROJECT_DIR$/.idea/modules/java-certification-ocp8.iml" />
+    </modules>
+  </component>
+</project>

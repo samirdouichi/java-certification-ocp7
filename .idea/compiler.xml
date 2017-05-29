@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01_JavaClassDesign" target="1.8" />
+      <module name="01_JavaClassDesign_main" target="1.5" />
+      <module name="01_JavaClassDesign_test" target="1.5" />
+      <module name="02_AdvancedJavaClassDesign" target="1.8" />
+      <module name="02_AdvancedJavaClassDesign_main" target="1.5" />
+      <module name="02_AdvancedJavaClassDesign_test" target="1.5" />
+      <module name="03_GenericsAndCollections" target="1.8" />
+      <module name="03_GenericsAndCollections_main" target="1.5" />
+      <module name="03_GenericsAndCollections_test" target="1.5" />
+      <module name="06_ExceptionsAndAssertions" target="1.8" />
+      <module name="06_ExceptionsAndAssertions_main" target="1.5" />
+      <module name="06_ExceptionsAndAssertions_test" target="1.5" />
+      <module name="07_JavaSE8DateTimeAPI" target="1.8" />
+      <module name="07_JavaSE8DateTimeAPI_main" target="1.5" />
+      <module name="07_JavaSE8DateTimeAPI_test" target="1.5" />
+      <module name="08_JavaIOFundamentals" target="1.8" />
+      <module name="08_JavaIOFundamentals_main" target="1.5" />
+      <module name="08_JavaIOFundamentals_test" target="1.5" />
+      <module name="10_JavaConcurrency" target="1.8" />
+      <module name="10_JavaConcurrency_main" target="1.5" />
+      <module name="10_JavaConcurrency_test" target="1.5" />
+      <module name="11_BuildingDatabaseApplicationsWithJDBC" target="1.8" />
+      <module name="11_BuildingDatabaseApplicationsWithJDBC_main" target="1.5" />
+      <module name="11_BuildingDatabaseApplicationsWithJDBC_test" target="1.5" />
+      <module name="12_Localization" target="1.8" />
+      <module name="12_Localization_main" target="1.5" />
+      <module name="12_Localization_test" target="1.5" />
+      <module name="13_JavaNetworking_main" target="1.5" />
+      <module name="13_JavaNetworking_test" target="1.5" />
+      <module name="java-certification-ocp8" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+  </component>
+</project>
