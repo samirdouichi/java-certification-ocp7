@@ -1,0 +1,4 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Tue Aug 08 13:35:49 EDT 2017
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;01_JavaClassDesign;02_AdvancedJavaClassDesign;03_GenericsAndCollections;06_ExceptionsAndAssertions;07_JavaSE8DateTimeAPI;08_JavaIOFundamentals;10_JavaConcurrency;11_BuildingDatabaseApplicationsWithJDBC;12_Localization;13_JavaNetworking;
+org.springsource.ide.eclipse.gradle.rootprojectloc=
